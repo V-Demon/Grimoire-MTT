@@ -1,0 +1,17 @@
+# Obligatoire
+numpy
+pandas
+networkx>=2.8
+matplotlib
+scipy
+scikit-learn
+# Fortement recommandé (qualité NLP)
+spacy
+sentence-transformers
+# Optionnel (dataviz)
+plotly
+pyvis
+wordcloud
+umap-learn
+adjustText
+# Modèle spaCy : python -m spacy download fr_core_news_md
