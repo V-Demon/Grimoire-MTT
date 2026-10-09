@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-09T15:52:23.707760+00:00",
+  "duree_s": 2108.2,
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "networkx": "3.5",
+    "spacy": "3.8.16",
+    "sentence_transformers": "6.0.1"
+  },
+  "parametres": {
+    "work_dir": "sanctuaire_grimoire",
+    "cache_dir": ".grimoire_cache",
+    "output_dir": "grimoire_output",
+    "cache_ttl_h": "24.0",
+    "force": "False",
+    "history": "True",
+    "workers": "6",
+    "max_file_bytes": "1500000",
+    "passage_words": "120",
+    "max_passages": "40000",
+    "max_embed": "6000",
+    "n_procs": "1",
+    "min_cooc": "2",
+    "graph_viz_nodes": "220",
+    "embeddings": "True",
+    "embed_model": "paraphrase-multilingual-MiniLM-L12-v2",
+    "n_topics": "0",
+    "offline_plotly": "False",
+    "seed": "42"
+  },
+  "depots": [
+    {
+      "label": "Fracturo2075",
+      "url": "https://github.com/doktornand/Fracturo2075",
+      "head": "9295ac61c4d6573392cffe4885898c77aa0e706e",
+      "shallow": false
+    },
+    {
+      "label": "Lingua-nostra-mundum-format",
+      "url": "https://github.com/doktornand/Lingua-nostra-mundum-format",
+      "head": "d05150cf314d759d6dbe90a193c1f2d91e310e6e",
+      "shallow": false
+    },
+    {
+      "label": "Corpus",
+      "url": "https://github.com/doktornand/Corpus",
+      "head": "aabea14d73d5fbbc74992a6f954191edbaf542d2",
+      "shallow": false
+    },
+    {
+      "label": "2075-Code",
+      "url": "https://github.com/doktornand/2075-Code",
+      "head": "84436f96783512a6dec65e9d4186c10951e58387",
+      "shallow": false
+    },
+    {
+      "label": "FractalTime-TimeWaveZero",
+      "url": "https://github.com/doktornand/FractalTime-TimeWaveZero",
+      "head": "49cb921fd7895851aaacacd76b99de5f91cc3e66",
+      "shallow": false
+    },
+    {
+      "label": "BDO",
+      "url": "https://github.com/doktornand/BDO",
+      "head": "b4f4de252a716e8f19cafcfa5d2bd130ccfa066f",
+      "shallow": false
+    },
+    {
+      "label": "FGlitch",
+      "url": "https://github.com/doktornand/FGlitch",
+      "head": "e013cb39413e7f32f7f3c7c7203d2b2921a6ae83",
+      "shallow": false
+    },
+    {
+      "label": "Europropagate",
+      "url": "https://github.com/JinroOe/Europropagate",
+      "head": "5458ca0b130fbb86c56598a1c597dd52357340d3",
+      "shallow": false
+    },
+    {
+      "label": "Discordian-Heliger",
+      "url": "https://github.com/Syrinx-2112/Discordian-Heliger",
+      "head": "6276c45ac023810d22ad18f0c2c53aca94dad4bd",
+      "shallow": false
+    },
+    {
+      "label": "Chronos-Trame (Syrinx-2112)",
+      "url": "https://github.com/Syrinx-2112/Chronos-Trame",
+      "head": "31ee8a08559d38da427a5a5024926911ded093ba",
+      "shallow": false
+    },
+    {
+      "label": "Trame-Watcher",
+      "url": "https://github.com/Syrinx-2112/Trame-Watcher",
+      "head": "734e49f8f13cc9e795d0b72d587e00018f010780",
+      "shallow": false
+    },
+    {
+      "label": "Uncover-Echo (KareyPyer)",
+      "url": "https://github.com/KareyPyer/Uncover-Echo",
+      "head": "04abef2749f964bcde0f79dd618aeb2a9bd9422a",
+      "shallow": false
+    },
+    {
+      "label": "Shodan-Echo (KareyPyer)",
+      "url": "https://github.com/KareyPyer/Shodan-Echo",
+      "head": "a91e4bfdcae28e37636f4a3c93b3e1ac38058f1d",
+      "shallow": false
+    },
+    {
+      "label": "Latent-Fracturo-Studio",
+      "url": "https://github.com/KareyPyer/Latent-Fracturo-Studio",
+      "head": "66364801a732d8511e0dfc11ba7122171ea6afdd",
+      "shallow": false
+    },
+    {
+      "label": "Phobos-Omega-Noir",
+      "url": "https://github.com/KareyPyer/Phobos-Omega-Noir",
+      "head": "8d08189ca00c820ba4c0e9b034d6f8ce68591906",
+      "shallow": false
+    },
+    {
+      "label": "Meme-Forge",
+      "url": "https://github.com/KareyPyer/Meme-Forge",
+      "head": "fca29eae1ca7830ba4d124b7ee0c103a88007766",
+      "shallow": false
+    },
+    {
+      "label": "Meme-Prompt-Studio",
+      "url": "https://github.com/KareyPyer/Meme-Prompt-Studio",
+      "head": "7de780b4b50582996fb6b3ab5a996074afb1dece",
+      "shallow": false
+    },
+    {
+      "label": "Vauvillensis-2075",
+      "url": "https://github.com/KareyPyer/Vauvillensis-2075",
+      "head": "1cda6438d4229c6f01a70af5f653e639ce5da5c3",
+      "shallow": false
+    },
+    {
+      "label": "Fulda93",
+      "url": "https://github.com/V-Demon/Fulda93",
+      "head": "4abe25cd08f646b892da5a724357d7e1fc418fd0",
+      "shallow": false
+    },
+    {
+      "label": "Chronos-Trame (V-Demon)",
+      "url": "https://github.com/V-Demon/Chronos-Trame",
+      "head": "58e758da6d8020f2dcfcc08a869cfb801ae77917",
+      "shallow": false
+    },
+    {
+      "label": "Cache-Echo",
+      "url": "https://github.com/V-Demon/Cache-Echo",
+      "head": "61ffc71c46d3de88f814fec8f7f617b0798a76f9",
+      "shallow": false
+    },
+    {
+      "label": "Uncover-Echo (V-Demon)",
+      "url": "https://github.com/V-Demon/Uncover-Echo",
+      "head": "69531bea5c49c5342a87a6aa5bf62758d34ed973",
+      "shallow": false
+    },
+    {
+      "label": "Shodan-Echo (V-Demon)",
+      "url": "https://github.com/V-Demon/Shodan-Echo",
+      "head": "a91e4bfdcae28e37636f4a3c93b3e1ac38058f1d",
+      "shallow": false
+    },
+    {
+      "label": "MTT2075---Carnage-de-Broceliande",
+      "url": "https://github.com/V-Demon/MTT2075---Carnage-de-Broceliande",
+      "head": "0e14938459891cc6470c16c9aead5a2ab3bb9872",
+      "shallow": false
+    },
+    {
+      "label": "Tech2075",
+      "url": "https://github.com/V-Demon/Tech2075",
+      "head": "67aca6ed7cd3133b626cff4e93bee3e777bc7cbb",
+      "shallow": false
+    },
+    {
+      "label": "Geopolitique2075",
+      "url": "https://github.com/V-Demon/Geopolitique2075",
+      "head": "bf5d2bcde1dfa179d0fc2ae1e750c4c6347af673",
+      "shallow": false
+    }
+  ],
+  "etapes_s": {
+    "stylométrie": 4.0,
+    "tfidf": 1.42,
+    "log-odds": 0.65,
+    "collocations": 0.06,
+    "ner": 0.04,
+    "lda": 469.22,
+    "embeddings": 1210.27,
+    "thèmes": 170.24,
+    "similarité": 0.69,
+    "commits": 1.08,
+    "graphe": 0.8,
+    "analyse graphe": 99.47,
+    "tables CSV": 1.13,
+    "résumé LLM": 0.0,
+    "grimoire": 10.21,
+    "viz mousse": 8.03,
+    "viz ego": 7.1,
+    "viz heatmap": 2.31,
+    "viz communautés": 1.53,
+    "pyvis": 0.83,
+    "viz wordclouds": 15.15,
+    "viz distinctifs": 6.63,
+    "viz topics": 9.13,
+    "viz carte": 4.35,
+    "viz thèmes×dépôts": 1.72,
+    "viz similarité": 3.92,
+    "viz stylométrie": 2.56,
+    "viz zipf": 3.61,
+    "viz ner": 0.64,
+    "viz inventaire": 3.24,
+    "viz temporalité": 4.29,
+    "viz références": 2.16,
+    "viz code": 1.39,
+    "figures plotly": 5.09,
+    "rapport html": 8.55
+  },
+  "documents": 265
+}

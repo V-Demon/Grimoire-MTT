@@ -1,0 +1,65 @@
+﻿repo_orig,path_orig,repo_dup,path_dup,car
+2075-Code,Incubator/Virus_Qwened.json,2075-Code,Incubator/cognitive_abyss_Virus_Qwened.json,527
+2075-Code,Incubator/PromptOne.txt,2075-Code,MemeticGenerator/PromptOne.txt,1547
+2075-Code,Norse/exported.json,2075-Code,Norse/old_norse_lexicon.json,157
+2075-Code,Incubator/lexicon/_paleo_mnemos_lexicon.json,2075-Code,RuneGlyph/paleo_mnemos_lexicon.json,13534
+2075-Code,Incubator/lexicon/_paleo_mnemos_lexicon.json,2075-Code,memetique75/paleo_mnemos_lexicon.json,13534
+Fracturo2075,Corpus_SkisM2025_Complet.md,Europropagate,Corpus_SkisM2025_Complet.md,18023
+Fracturo2075,LA GRAMMAIRE DES OMBRES.md,Europropagate,README.md,23545
+Fracturo2075,xTras.md,Europropagate,xTras.md,14738
+Discordian-Heliger,requirements.txt,Chronos-Trame (Syrinx-2112),requirements.txt,42
+Discordian-Heliger,core/ontology.py,Chronos-Trame (Syrinx-2112),core/ontology.py,113
+Discordian-Heliger,core/temporal_graph.py,Chronos-Trame (Syrinx-2112),core/temporal_graph.py,301
+Discordian-Heliger,core/timewave.py,Chronos-Trame (Syrinx-2112),core/timewave.py,195
+Discordian-Heliger,data/bdo_corpus_sample.json,Chronos-Trame (Syrinx-2112),data/bdo_corpus_sample.json,54
+Discordian-Heliger,ui/cli_oracle.py,Chronos-Trame (Syrinx-2112),ui/cli_oracle.py,442
+2075-Code,LatentGlyph/anchors.json,Latent-Fracturo-Studio,anchors.json,48
+2075-Code,LatentGlyph/effects.json,Latent-Fracturo-Studio,effects.json,21783
+2075-Code,LatentGlyph/glitches.json,Latent-Fracturo-Studio,glitches.json,12980
+2075-Code,LatentGlyph/incantations.json,Latent-Fracturo-Studio,incantations.json,23427
+2075-Code,LatentGlyph/locations.json,Latent-Fracturo-Studio,locations.json,2157
+2075-Code,LatentGlyph/profiles.json,Latent-Fracturo-Studio,profiles.json,488
+2075-Code,LatentGlyph/templates.json,Latent-Fracturo-Studio,templates.json,956
+2075-Code,MemeForge/memeforge.py,Meme-Forge,memeforge.py,2101
+2075-Code,MemeForge/config/archetypes.json,Meme-Forge,config/archetypes.json,111
+2075-Code,MemeForge/config/glitch_effects.json,Meme-Forge,config/glitch_effects.json,2205
+2075-Code,MemeForge/config/narratives.json,Meme-Forge,config/narratives.json,377
+2075-Code,MemeForge/config/runes.json,Meme-Forge,config/runes.json,98
+2075-Code,MemeForge/config/sources.json,Meme-Forge,config/sources.json,447
+2075-Code,MemePrompt/meme_prompt_studio_pro2c.py,Meme-Prompt-Studio,meme_prompt_studio_pro2c.py,3598
+2075-Code,MemePrompt/meme_prompts_ultra.json,Meme-Prompt-Studio,meme_prompts_ultra.json,33282
+Discordian-Heliger,requirements.txt,Chronos-Trame (V-Demon),requirements.txt,42
+Discordian-Heliger,core/fracturo_engine.py,Chronos-Trame (V-Demon),core/fracturo_engine.py,116
+Discordian-Heliger,core/ontology.py,Chronos-Trame (V-Demon),core/ontology.py,113
+Discordian-Heliger,core/temporal_graph.py,Chronos-Trame (V-Demon),core/temporal_graph.py,301
+Discordian-Heliger,core/timewave.py,Chronos-Trame (V-Demon),core/timewave.py,195
+Discordian-Heliger,data/bdo_corpus_sample.json,Chronos-Trame (V-Demon),data/bdo_corpus_sample.json,54
+Discordian-Heliger,ui/cli_oracle.py,Chronos-Trame (V-Demon),ui/cli_oracle.py,442
+Discordian-Heliger,ui/gui_dashboard.py,Chronos-Trame (V-Demon),ui/gui_dashboard.py,94
+Uncover-Echo (KareyPyer),README.md,Uncover-Echo (V-Demon),README.md,4531
+Uncover-Echo (KareyPyer),config_editor.py,Uncover-Echo (V-Demon),config_editor.py,926
+Uncover-Echo (KareyPyer),requirements.txt,Uncover-Echo (V-Demon),requirements.txt,39
+Uncover-Echo (KareyPyer),uncover_echo_v3.py,Uncover-Echo (V-Demon),uncover_echo_v3.py,160
+Uncover-Echo (KareyPyer),config/engines.yaml,Uncover-Echo (V-Demon),config/engines.yaml,342
+Uncover-Echo (KareyPyer),config/presets.yaml,Uncover-Echo (V-Demon),config/presets.yaml,2313
+Uncover-Echo (KareyPyer),config/transients.yaml,Uncover-Echo (V-Demon),config/transients.yaml,1088
+Uncover-Echo (KareyPyer),config/ui.yaml,Uncover-Echo (V-Demon),config/ui.yaml,172
+Uncover-Echo (KareyPyer),core/__init__.py,Uncover-Echo (V-Demon),core/__init__.py,28
+Uncover-Echo (KareyPyer),core/config_loader.py,Uncover-Echo (V-Demon),core/config_loader.py,248
+Uncover-Echo (KareyPyer),core/models.py,Uncover-Echo (V-Demon),core/models.py,273
+Uncover-Echo (KareyPyer),core/scanner.py,Uncover-Echo (V-Demon),core/scanner.py,201
+Uncover-Echo (KareyPyer),core/transients.py,Uncover-Echo (V-Demon),core/transients.py,1375
+Uncover-Echo (KareyPyer),core/engines/__init__.py,Uncover-Echo (V-Demon),core/engines/__init__.py,81
+Uncover-Echo (KareyPyer),core/engines/base.py,Uncover-Echo (V-Demon),core/engines/base.py,349
+Uncover-Echo (KareyPyer),core/engines/censys.py,Uncover-Echo (V-Demon),core/engines/censys.py,25
+Uncover-Echo (KareyPyer),core/engines/fofa.py,Uncover-Echo (V-Demon),core/engines/fofa.py,101
+Uncover-Echo (KareyPyer),core/engines/shodan.py,Uncover-Echo (V-Demon),core/engines/shodan.py,25
+Uncover-Echo (KareyPyer),core/engines/zoomeye.py,Uncover-Echo (V-Demon),core/engines/zoomeye.py,26
+Uncover-Echo (KareyPyer),gui/__init__.py,Uncover-Echo (V-Demon),gui/__init__.py,43
+Uncover-Echo (KareyPyer),gui/app.py,Uncover-Echo (V-Demon),gui/app.py,43
+Uncover-Echo (KareyPyer),templates/header.txt,Uncover-Echo (V-Demon),templates/header.txt,917
+Uncover-Echo (KareyPyer),tests/test_transients.py,Uncover-Echo (V-Demon),tests/test_transients.py,70
+Shodan-Echo (KareyPyer),README.md,Shodan-Echo (V-Demon),README.md,13042
+Shodan-Echo (KareyPyer),mcp_echo_v3.py,Shodan-Echo (V-Demon),mcp_echo_v3.py,6896
+Fracturo2075,xTras/Du Livre Zéro au Glitch _ Une Grammaire Linguistique du FracturoScript.md,Tech2075,Du Livre Zéro au Glitch _ Une Grammaire Linguistique du FracturoScript.md,35832
+Fracturo2075,snippets.md,Tech2075,snippets.md,952
